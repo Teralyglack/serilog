@@ -1,0 +1,21 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# Logs
+[Ll]ogs/
+
+# NuGet packages
+packages/
+
+# Others
+*.pdb
+*.exe
+*.dll
