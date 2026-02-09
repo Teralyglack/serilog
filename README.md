@@ -167,8 +167,6 @@ git push origin main
 - `logs/` - файлы логов
 - `*.user` - пользовательские настройки
 
-## 📞 Поддержка
-
 ### Полезные ссылки
 - [Serilog документация](https://docs.google.com/document/d/1N8oQm4ZU_ZxR9Zqy2VZCDQNM_Yip9sYIFdqIUMrRgAE/edit?usp=sharing)
 - [GitHub репозиторий](https://github.com/Teralyglack/serilog)
